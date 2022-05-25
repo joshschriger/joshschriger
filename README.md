@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @joshschriger
 - 👀 I’m interested in software dev and Machine Learning
-- 🌱 I’m currently learning at Boise State University
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently enrolled at Boise State University
+
+
+
 
 <!---
 joshschriger/joshschriger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
